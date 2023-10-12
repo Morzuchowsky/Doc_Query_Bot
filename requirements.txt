@@ -1,0 +1,7 @@
+
+Langchain==0.0.312
+python-dotenv==1.0.0
+faiss-cpu==1.7.4
+pypdf==3.16.4
+openai==0.28.1
+tiktoken==0.5.1
