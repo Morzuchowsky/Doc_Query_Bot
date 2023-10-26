@@ -1,5 +1,8 @@
 # Langchain Project
 
+![Project Presentation](/assets/Query_Bot.gif)
+
+
 This project utilizes the Langchain library to index and query PDF documents using the OpenAI model. 
 It allows for loading PDF documents, splitting them into chunks, generating embeddings using the OpenAI model, indexing these embeddings with FAISS, and answering user queries based on the indexed documents.
 
