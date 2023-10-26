@@ -1,4 +1,3 @@
-
 # Langchain Project
 
 This project utilizes the Langchain library to index and query PDF documents using the OpenAI model. 
@@ -16,6 +15,10 @@ It allows for loading PDF documents, splitting them into chunks, generating embe
 
 - Ensure you have a valid API key from OpenAI.
 - This project has been tested with Langchain version 0.0.312.
+
+## Warning
+
+- If the input document is too long, the chatbot may produce inaccurate or incomplete responses.
 
 ## Project Status
 
